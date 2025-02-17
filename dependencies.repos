@@ -1,0 +1,5 @@
+repositories:
+  arcs_cohort_description:
+    type: git
+    url: git@github.com:csun-arcs/arcs_cohort_gazebo_sim.git
+    version: main
