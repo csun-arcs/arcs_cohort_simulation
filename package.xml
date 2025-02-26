@@ -10,6 +10,7 @@
   <buildtool_depend>ament_cmake</buildtool_depend>
 
   <depend>arcs_cohort_gazebo_sim</depend>
+  <depend>arcs_cohort_issac_sim</depend>
 
   <export>
     <build_type>ament_cmake</build_type>
