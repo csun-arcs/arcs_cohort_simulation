@@ -3,7 +3,10 @@ repositories:
     type: git
     url: git@github.com:csun-arcs/arcs_cohort_gazebo_sim.git
     version: main
-  arcs_cohort_issac_sim:
-    type: git
-    url: git@github.com:csun-arcs/arcs_cohort_issac_sim.git
-    version: main
+  #
+  # TODO: The following package has not yet been implemented.
+  #
+  # arcs_cohort_issac_sim:
+  #   type: git
+  #   url: git@github.com:csun-arcs/arcs_cohort_issac_sim.git
+  #   version: main
