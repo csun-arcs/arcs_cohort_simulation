@@ -1,4 +1,8 @@
 repositories:
+  arcs_cohort_rviz:
+    type: git
+    url: git@github.com:csun-arcs/arcs_cohort_rviz.git
+    version: main
   arcs_cohort_gazebo_sim:
     type: git
     url: git@github.com:csun-arcs/arcs_cohort_gazebo_sim.git
