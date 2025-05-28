@@ -6,7 +6,7 @@ repositories:
   arcs_cohort_gazebo_sim:
     type: git
     url: https://github.com/csun-arcs/arcs_cohort_gazebo_sim.git
-    version: main
+    version: humble
   #
   # TODO: The following package has not yet been implemented.
   #
